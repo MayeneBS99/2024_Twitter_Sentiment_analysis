@@ -1,4 +1,3 @@
-This project consists into an analyze of 2024 tweets from France, UK and USA. The analyze is composed of 3 parts
-The first one for convert the tweet into a same language, the second for detecting topics for each tweet end the last 
-for analyse tweet sentiment.
-We use Open AI models to do all of this
+This project involves the analysis of tweets from France, the UK, and the USA in 2024. The analysis is divided into three parts.
+The first part focuses on translating the tweets into a single language, the second identifies topics for each tweet, and the third analyzes the sentiment of the tweets.
+We use OpenAI models to perform all these tasks.
